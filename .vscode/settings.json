@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null,
+    "html.format.enable": true,
+    "css.format.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Material Theme Palenight High Contrast"
+}
